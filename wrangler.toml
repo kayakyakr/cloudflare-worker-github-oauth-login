@@ -2,3 +2,4 @@ name = "github-oauth-login"
 account_id = "13b4dcc630fce93a01c433c09c9ea594"
 workers_dev = true
 main = "github-oauth-login.js"
+compatibility_date = "2023-07-21"
